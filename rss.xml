@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[collis]]></title>
         <description><![CDATA[collis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/collis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 00:46:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 08:33:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/collis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Labor ad man shows an art for corporate campaigns]]></title>
+            <description><![CDATA[<article><h1>Labor ad man shows an art for corporate campaigns</h1><p>For a career adman, the Labor Party's new ad chief has a knack for landing peculiar but high-profile jobs outside his traditional craft of copywriting. Mark Collis's history is peppered with prestigious international advertising awards for fast-food chains, chocolate bars, beer and lollies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb0d8a3542dcb015b93886ef9e1f05932a140f07.jpg"></article>]]></description>
+            <link>http://www.afr.com/business/media-and-marketing/advertising/labor-ad-man-shows-an-art-for-corporate-campaigns-20121108-j1hqo</link>
+            <guid isPermaLink="false">8f1ade3b-d3e7-43b8-956a-d0812b2e1d48</guid>
+            <pubDate>Wed, 23 Dec 2015 08:33:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Gallery]]></title>
             <description><![CDATA[<article><h1>The Gallery</h1><p>Check out our new gallery space in little Avalon.</p></article>]]></description>
-            <link>undefinedthe-gallery/index.html</link>
+            <link>https://thegrid.ai/collis/the-gallery/index.html</link>
             <guid isPermaLink="false">ece45018-f083-4989-982b-ebfa85b019f6</guid>
             <pubDate>Wed, 23 Dec 2015 00:46:14 GMT</pubDate>
         </item>
