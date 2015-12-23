@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[collis]]></title>
+        <description><![CDATA[collis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 00:46:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gallery]]></title>
+            <description><![CDATA[<article><h1>The Gallery</h1><p>Check out our new gallery space in little Avalon.</p></article>]]></description>
+            <link>undefinedthe-gallery/index.html</link>
+            <guid isPermaLink="false">ece45018-f083-4989-982b-ebfa85b019f6</guid>
+            <pubDate>Wed, 23 Dec 2015 00:46:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
