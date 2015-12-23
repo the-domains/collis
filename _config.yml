@@ -1,7 +1,7 @@
 name: collis
 favicon: null
-layout_spectrum: 0.29522921121679246
-typography_spectrum: 0.9470497323200107
+layout_spectrum: 0.21743
+typography_spectrum: 0.37817
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.2847169782035053
-  lightness: 0.8383270716294646
-  saturation: 0.6618374784011394
-  rhythmicContrast: 0.9395165406167507
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
